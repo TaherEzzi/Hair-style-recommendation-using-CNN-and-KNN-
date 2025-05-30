@@ -1,3 +1,8 @@
-IN THE CODE  YOU WILL NEED TO DOWNLOAD THE DEPENDENCIES AND THEN CREATE THE CACHE FILE FOR MEN AND WOMEN HAIR STYLES AS IT CAN BE TRAINED ON THE PARAMETER LISTED IN THE CSV FILE ,
-THE CHACE FILE WILL DEPEND ON THE USER PREPROCESSING AND REQUIRMENTS HENCE IT IS NOT IN THE REPO , 
-KINDLY CREATE A PREPROCESSOR BASED ON YOUR REQUIRMENT AND ADD THE .NPZ FILE
+Setup Instructions
+Before running the code, please ensure the required dependencies are installed.
+
+You will need to generate the cache files for men's and women's hairstyles, as the model can be trained using parameters defined in the provided CSV file.
+
+Note: Cache files (.npz) are not included in this repository because they depend on individual preprocessing preferences and requirements.
+
+Please create your own preprocessing script tailored to your use case, and generate the necessary .npz files accordingly.
